@@ -1,7 +1,7 @@
 # Required libraries
 
-pip install pandas
-pip install seaborn
-pip install ipywidgets
-pip install matplotlib
-pip install pandas-profiling[notebook]
+<br>pip install pandas
+<br>pip install seaborn
+<br>pip install ipywidgets
+<br>pip install matplotlib
+<br>pip install pandas-profiling[notebook]
